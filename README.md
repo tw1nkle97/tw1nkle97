@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 📫 How to reach me:
++ [Telegram](https://t.me/tw1nkle97)
++ [VK](https://vk.com/tw1nkle97)
++ [Habr](https://habr.com/ru/users/tw1nkle97/posts/)
+
+## Technologies
+[![java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=1e9257)](#) [![python](https://img.shields.io/badge/-Python-346998?style=for-the-badge&labelColor=black&logo=python&logoColor=346998)](#)
+
 <!--
 **tw1nkle97/tw1nkle97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
