@@ -8,4 +8,4 @@
 
 ## Activities
 - 🔭 Learning Java, Python.
-- 💻 My projects on <a href="https://github.com/tw1nkle97">GitHub</a>
+- 💻 My projects are on <a href="https://github.com/tw1nkle97?tab=repositories">GitHub</a>
