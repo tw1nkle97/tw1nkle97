@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=500&center=true&multiline=true&width=435&lines=Welcome+%E2%98%BA;I'm+Java+and+Python+developer)](https://git.io/typing-svg)
+
 ## 📫 How to reach me:
 - [Telegram](https://t.me/tw1nkle97)
 - [VK](https://vk.com/tw1nkle97)
