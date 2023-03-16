@@ -5,7 +5,7 @@
   <a href="https://t.me/tw1nkle97">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://habr.com/ru/users/tw1nkle97/posts/">
+  <a href="https://habr.com/ru/users/tw1nkl3/posts/">
     <img src="https://img.shields.io/badge/Habr-blue?style=for-the-badge&logo=habr&logoColor=white" alt="Habr Badge"/>
   </a>
 </div>
